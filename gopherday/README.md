@@ -48,6 +48,5 @@ iThome
 
 ## 協辦單位
 
-[Gopher Taipei](http://golang.tw)
-
+Gopher Taipei
 
