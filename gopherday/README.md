@@ -48,6 +48,6 @@ iThome
 
 ## 協辦單位
 
-Golang Taiwan
+Gopher Taipei
 
 
