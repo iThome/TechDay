@@ -23,7 +23,8 @@ Whole day, single track; 40 mins or 25 mins lecture
 06/29 (Thru), 09:30~17:30
 
 ## Venue:
-Tsai Lecture Hall, College of Law, National Taiwan University (Tentative)
+
+GIS TAIPEI TECH Convention Center(Tentative)
 
 ## Ticket Price:
 NTD. 1490 (Tentative)
